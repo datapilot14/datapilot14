@@ -11,8 +11,13 @@
 
 ## 🛠️ Tech Stack
 
-• `Azure Databricks` • `PySpark` • `Delta Lake` • `Delta Live Tables` • `Unity Catalog` • `Medallion Architecture` • `ADLS Gen2` • `Auto loader` • `Python` • `SQL` 
-• `Git` • `GitHub`
+**Data Engineering:** • `Azure Databricks` • `PySpark` • `Delta Lake` • `Delta Live Tables` • `Unity Catalog` • `Medallion Architecture` 
+
+**Cloud & Orchestration:** • `Unity Catalog`• `ADLS Gen2` • `Azure Data Factory`
+
+**Tools & Version Control:** • `Git` • `GitHub` • `VS Code`
+
+**Programming Languages:** • `Python` • `SQL` 
 
 ## 📈 Current Focus
 
